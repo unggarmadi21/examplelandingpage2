@@ -1,0 +1,166 @@
+body {
+  font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  /* background-color: #000099; */
+  background-size: 100% 100% fixed;
+
+}
+
+
+/* Navbar */
+.nav-link {
+  color: #FFFFFF !important;
+}
+
+
+header.head {
+  background-image: url("../img/background3.jpg") !important;
+  background-position: center center !important;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+header.head .text-head {
+  margin-top: 12rem;
+  margin-bottom: 10rem;
+  font-size: 22px;
+  font-style: italic;
+  font-family: 'Droid Serif',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol',
+    'Noto Color Emoji';
+  color: #FFFFFF !important;
+  font-style: oblique;
+}
+
+.text-head h2 {
+  text-decoration: steelblue !important;
+  font: bold;
+  font-style: initial;
+  font-weight: 100 !important;
+  font-family: sans-serif;
+  margin-top: initial;
+}
+
+.card-text {
+  font-size: medium;
+}
+
+.timeline-image {
+  width: 350px;
+  height: 330px;
+}
+
+.btn-xl {
+  font-size: 18px;
+  padding: 10px 20px;
+}
+
+.img-center {
+  height: 250px;
+  width: 50px;
+  width: auto;
+}
+
+
+h1 .row .text-uppercase {
+  margin-top: 5px !important;
+}
+
+ul.social {
+  margin-bottom: 0;
+
+}
+
+ul .social li a {
+  font-size: 20px !important;
+  line-height: 50rem !important;
+  display: block;
+  width: 50px !important;
+  height: 50px !important;
+  color: darkslategrey !important;
+  transition: all 0.3s !important;
+  border-radius: 100% !important;
+  outline: none;
+  background-color: darkslategrey !important;
+}
+
+ul .social li a:active,
+ul .social li a:focus,
+ul .social li a:hover {
+  background-color: white !important;
+}
+
+
+
+
+
+h3 {
+  color: #FFFFFF;
+  border-right: #FFFFFF;
+}
+
+
+.btn-lg span {
+  color: #FFFFFF;
+}
+
+.nav-item {
+  margin-right: 24px;
+  font-weight: 200;
+}
+
+.nav-item.active a {
+  color: #FFFFFF !important;
+  font-weight: 600;
+}
+
+
+/* Carousel */
+.carousel {
+  height: 450px;
+  background-color: #171717;
+  color: white;
+}
+
+.carousel h1 {
+  font-family: 'Lora';
+}
+
+.carousel p {
+  font-weight: 200;
+}
+
+
+.features h3,
+.designer h3,
+.similar-product h3,
+.cart-header h3,
+.checkout-modal-success h3 {
+  font-family: 'Lora';
+  color: #1B2690;
+  font-weight: bold;
+}
+
+.features p,
+.designer p,
+footer p,
+.similar-product p,
+.cart-header p,
+.checkout-modal-success p {
+  font-weight: 200;
+  color: #B7B7B7;
+}
+
+.container-fluid footer {
+  height: 20px;
+  width: 30px;
+}
